@@ -3,7 +3,6 @@
 Простой и стильный калькулятор, созданный на React с поддержкой базовых арифметических операций.
 
 ![Calculator Preview](https://img.shields.io/badge/React-18.x-61DAFB?style=flat&logo=react)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ## 📋 Описание
 
